@@ -37,6 +37,29 @@ learning-project/
 
 ## ⚙️ Stack
 
-- Python 3.x
+● Python 3.x
 - Visual Studio Code
-
+- Web Development
+  -Flask
+  -Streamlit
+● Data Analysis & Visualization
+  -NumPy
+  -Pandas
+  -Matplotlib
+● Computer Vision & AI
+  -OpenCV
+  -Dlib
+  -Torch & Torchvision
+  -Ultralytics (YOLO)
+● Automation
+  -Selenium
+  -PyAutoGUI
+  -PyQt5
+● Document & PDF
+  -Python-docx
+  -docx2pdf
+  -Openpyxl
+● Multimedia
+  -gTTS
+  -Playsound
+  -Pillow (PIL)
