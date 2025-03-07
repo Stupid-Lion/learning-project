@@ -35,31 +35,55 @@ learning-project/
 └── Streamlit 이용하여 주가예측 웹 만들기/
 ```
 
-## ⚙️ Stack
+## ⚙️ Stack Language & IDE
 
-● Python 3.x
-- Visual Studio Code
-- Web Development
-  -Flask
-  -Streamlit
-● Data Analysis & Visualization
-  -NumPy
-  -Pandas
-  -Matplotlib
-● Computer Vision & AI
-  -OpenCV
-  -Dlib
-  -Torch & Torchvision
-  -Ultralytics (YOLO)
-● Automation
-  -Selenium
-  -PyAutoGUI
-  -PyQt5
-● Document & PDF
-  -Python-docx
-  -docx2pdf
-  -Openpyxl
-● Multimedia
-  -gTTS
-  -Playsound
-  -Pillow (PIL)
+- 🐍 **Python 3.x**  
+- 🛠️ **Visual Studio Code**  
+
+🌐 **Web Development**  
+- Flask  
+- Streamlit  
+
+📊 **Data Analysis & Visualization**  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+📷 **Computer Vision & AI**  
+- OpenCV  
+- Dlib  
+- Torch & Torchvision  
+- Ultralytics (YOLO)  
+
+🤖 **Automation & GUI**  
+- Selenium  
+- PyAutoGUI  
+- PyQt5  
+
+📄 **Document & PDF**  
+- Python-docx  
+- docx2pdf  
+- Openpyxl  
+
+🔉 **Multimedia**  
+- gTTS  
+- Playsound  
+- Pillow (PIL)  
+
+⚡ **Deployment & Packaging**  
+- PyInstaller  
+- virtualenv  
+
+🔗 **Web Communication**  
+- requests  
+- websocket-client  
+- websockets  
+- webdriver-manager  
+- selenium  
+
+📚 **Miscellaneous**  
+- python-dotenv  
+- tqdm  
+- scipy  
+- networkx  
